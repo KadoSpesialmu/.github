@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+  <title id="t">Kado Spesialmu</title>
+  <desc id="d">Hadiah kustom yang dibuat khusus untuk orang spesialmu — fisik, digital, atau keduanya. kado-spesialmu.web.id</desc>
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#E8DDD1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="18" fill="#FDF6F0"/>
+  <rect x="780" y="0" width="420" height="340" fill="url(#dots)" opacity="0.9"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="17.25" fill="none" stroke="#E8DDD1" stroke-width="1.5"/>
+
+  <!-- wordmark -->
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#3A2A22">
+    <text x="72" y="96" font-size="15" letter-spacing="4" fill="#7C8363" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600">HADIAH KUSTOM · DIBUAT KHUSUS</text>
+    <text x="68" y="172" font-size="68" fill="#7D5A50">Kado Spesialmu</text>
+  </g>
+  <line x1="72" y1="198" x2="152" y2="198" stroke="#7D5A50" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#3A2A22">
+    <text x="72" y="238" font-size="21">Untuk orang spesialmu — fisik, digital, atau keduanya.</text>
+    <text x="72" y="276" font-size="17" fill="#8A7A6E">Pesan lewat WhatsApp · cek status pakai Order ID · tanpa akun.</text>
+  </g>
+
+  <!-- gift box -->
+  <g transform="translate(905 34)" stroke="#5C4038" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="0" y="92" width="200" height="132" rx="6" fill="#F3E8DE"/>
+    <rect x="-12" y="60" width="224" height="40" rx="6" fill="#EFE7E2"/>
+    <rect x="84" y="60" width="32" height="164" fill="#7D5A50"/>
+    <path d="M100 60 C 70 20, 30 22, 40 46 C 48 64, 84 62, 100 60 Z" fill="#7D5A50"/>
+    <path d="M100 60 C 130 20, 170 22, 160 46 C 152 64, 116 62, 100 60 Z" fill="#7D5A50"/>
+    <path d="M100 60 l -18 34 M100 60 l 18 34" stroke="#5C4038"/>
+    <circle cx="100" cy="60" r="8" fill="#5C4038"/>
+    <!-- leaf accent -->
+    <path d="M210 74 c 20 -14 34 -8 40 2 c -14 10 -30 10 -40 -2 z" fill="#7C8363" stroke="#5C5F48"/>
+  </g>
+
+  <text x="1128" y="306" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#7D5A50">kado-spesialmu.web.id</text>
+</svg>
