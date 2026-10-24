@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kado-spesialmu.web.id">
-    <img src="./assets/banner.svg" alt="Kado Spesialmu — hadiah kustom untuk orang spesialmu, fisik, digital, atau keduanya" width="100%">
+    <img src="./assets/banner.svg" alt="Kado Spesialmu — kado digital kustom untuk orang spesialmu, dibuka lewat satu link" width="100%">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ---
 
-**Kado Spesialmu** membuat hadiah kustom — dari halaman web interaktif sampai kotak hadiah yang dirangkai tangan. Setiap kado dikerjakan khusus untuk satu orang, bukan dari template massal.
+**Kado Spesialmu** membuat hadiah digital kustom — dari kartu ucapan beranimasi sampai halaman web hadiah interaktif. Setiap kado dikerjakan khusus untuk satu orang, bukan dari template massal.
 
 ## 🎁 Produk
 
@@ -22,13 +22,10 @@
 |---|---|---|---|
 | **Web Hadiah Interaktif** — halaman hadiah personal: intro kotak hadiah, galeri foto, pesan, dan musik pilihanmu | Digital | 300K | [kado.kado-spesialmu.web.id](https://kado.kado-spesialmu.web.id/) |
 | **Kartu Ucapan Digital Animasi** — kartu beranimasi yang dibuka halaman demi halaman seperti kartu sungguhan | Digital | 75K | [kartuucapan.kado-spesialmu.web.id](https://kartuucapan.kado-spesialmu.web.id/) |
-| **Gift Box Kustom** — isi pilihanmu, dikemas rapi lengkap dengan kartu tulisan tangan | Fisik | 250K | [giftbox.kado-spesialmu.web.id](https://giftbox.kado-spesialmu.web.id/) |
-| **Scrapbook / Album Kenangan** — album buatan tangan berisi foto, tiket, dan tulisan tangan | Fisik | 200K | [album.kado-spesialmu.web.id](https://album.kado-spesialmu.web.id/) |
-| **Paket Lengkap** — Gift Box Kustom + QR menuju Web Hadiah Interaktif; dibuka dua kali, fisik dulu lalu digital | Fisik + Digital | 500K | [Minta katalog via WhatsApp](https://wa.me/6282336545538) |
 | **Undangan Digital Custom** — undangan pernikahan dengan QR unik per tamu, discan saat datang, kehadiran tercatat rapi | Digital | 500K | [undangan.kado-spesialmu.web.id](https://undangan.kado-spesialmu.web.id/) |
-| **Custom Produk** — punya ide sendiri? Ceritakan, kita bahas bentuk, bahan, dan harganya bareng-bareng | Fisik / Digital | 100K | [Ngobrol via WhatsApp](https://wa.me/6282336545538) |
+| **Custom Produk** — punya ide sendiri? Ceritakan, kita bahas bentuk, bahan, dan harganya bareng-bareng | Sesuai permintaan | 100K | [Ngobrol via WhatsApp](https://wa.me/6282336545538) |
 
-<sub>Harga final ditentukan saat ngobrol di WhatsApp, tergantung tingkat kustomisasi.</sub>
+<sub>Harga final ditentukan saat ngobrol di WhatsApp, tergantung tingkat kustomisasi. Kado fisik (Gift Box, Scrapbook, Paket Lengkap) sedang tidak dibuka untuk sementara.</sub>
 
 ## 🧭 Cara Pesan
 
@@ -40,10 +37,9 @@
 
 ## 🛡️ Garansi
 
-- **Garansi Selesai** — digital maksimal 7 hari, fisik maksimal 3 minggu sejak deal (di luar waktu kirim ekspedisi).
-- **Garansi Aktif 10 bulan** untuk produk digital (Web Hadiah, Kartu Ucapan, bagian web Paket Lengkap) — link tetap hidup dan bisa dibuka. Undangan Digital: 3 bulan.
-- **Garansi barang hilang** — kado fisik yang hilang di ekspedisi, nilai kadonya dikembalikan 100% (dengan bukti resmi dari ekspedisi).
-- Kalau garansi tidak terpenuhi, kompensasinya **uang kembali**.
+- **Garansi Selesai** — kado digital selesai maksimal 7 hari sejak deal.
+- **Garansi Aktif 10 bulan** untuk produk digital (Web Hadiah, Kartu Ucapan) — link tetap hidup dan bisa dibuka. Undangan Digital: 3 bulan.
+- Kalau garansi tidak terpenuhi, kompensasinya **refund penuh 100%** via transfer — tidak berlaku bila keterlambatan disebabkan pemesan.
 
 ## 💬 Hubungi Kami
 

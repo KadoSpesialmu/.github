@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
   <title id="t">Kado Spesialmu</title>
-  <desc id="d">Hadiah kustom yang dibuat khusus untuk orang spesialmu — fisik, digital, atau keduanya. kado-spesialmu.web.id</desc>
+  <desc id="d">Kado digital kustom yang dibuat khusus untuk orang spesialmu, dibuka lewat satu link. kado-spesialmu.web.id</desc>
   <defs>
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.2" fill="#E8DDD1"/>
@@ -18,7 +18,7 @@
   </g>
   <line x1="72" y1="198" x2="152" y2="198" stroke="#7D5A50" stroke-width="3" stroke-linecap="round"/>
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#3A2A22">
-    <text x="72" y="238" font-size="21">Untuk orang spesialmu — fisik, digital, atau keduanya.</text>
+    <text x="72" y="238" font-size="21">Untuk orang spesialmu — dibuka lewat satu link.</text>
     <text x="72" y="276" font-size="17" fill="#8A7A6E">Pesan lewat WhatsApp · cek status pakai Order ID · tanpa akun.</text>
   </g>
 
